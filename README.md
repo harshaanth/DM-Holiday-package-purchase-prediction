@@ -14,7 +14,7 @@ The goal of this project is to analyze customer data to predict the likelihood o
 ### Project Components:
 - **Excel File (`Travel_Final.xlsx`)**: Contains the dataset and the model used for predictions.
 - **Project Report (`Final Project Report - Holiday Package Purchase Prediction.pdf`)**: A detailed report explaining the project, methodology, results, and insights gained from the analysis.
-- **Presentation (`DM Final Presentation.pptx`)**: A PowerPoint presentation that provides a visual summary of the project, including key findings and business recommendations.
+- **Presentation (`Holiday Package Purchase Prediction Presentation.pdf`)**: A presentation that provides a visual summary of the project, including key findings and business recommendations.
 
 ### Content Overview:
 1. **Dataset**: The dataset includes customer demographics, travel history, and other factors relevant to purchasing decisions.
