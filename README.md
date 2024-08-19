@@ -32,8 +32,6 @@ The goal of this project is to analyze customer data to predict the likelihood o
 
 ### Holiday Package Purchase Prediction Project Report
 
-**Harshaanth Thiyagaraja Kumar | Geetha Raghiphani | Charles Schlissel**
-
 #### Table of Contents
 1. **Project Description**
    - Introduction to Trips & Travel.Com's mission and the introduction of the Wellness Tourism Package.
