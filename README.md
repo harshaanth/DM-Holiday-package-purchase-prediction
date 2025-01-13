@@ -6,7 +6,7 @@ The goal of this project is to analyze customer data to predict the likelihood o
 
 ### Business Questions:
 1. **What are the key factors that influence a customer's decision to purchase a holiday package?**
-2. **Can we predict if a customer will buy a holiday package based on their demographics and behavior?**
+2. **How can we predict if a customer will buy a holiday package based on their demographics and behavior?**
 3. **Which customer segments are most likely to convert, and how can they be targeted effectively?**
 
 ### Dependent & Independent Variables
