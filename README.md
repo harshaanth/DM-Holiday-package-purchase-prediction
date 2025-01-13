@@ -12,7 +12,7 @@ The goal of this project is to analyze customer data to predict the likelihood o
 ### Dependent & Independent Variables
 The goal is to predict whether a customer will purchase the travel package (Target) based on various factors (Predictor Variables). We will use classification models.
 
-Click on the link to view the presentation: 
+Click on the link to view the presentation: https://github.com/harshaanth/DM-Holiday-package-purchase-prediction/blob/main/Holiday%20Package%20Purchase%20Prediction%20Presentation.pdf
 
 ### Data Preprocessing
 **Handling Missing Data:**
